@@ -7,7 +7,7 @@ import pandas as pd
 import seaborn as sns
 import warnings
 import matplotlib.pyplot as plt
-from sklearn.model_selection import GridSearchCV, cross_validate,
+from sklearn.model_selection import GridSearchCV, cross_validate
 from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 from catboost import CatBoostClassifier
