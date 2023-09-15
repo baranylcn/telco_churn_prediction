@@ -1,6 +1,7 @@
 # TELCO CHURN PREDICTION
 
-![Telco_Churn_Prediction_page-0001](https://github.com/baranylcn/telco_churn_prediction/assets/98966968/0e29283c-828d-45a7-be5d-4732726bd608)
+![image](https://github.com/baranylcn/telco_churn_prediction/assets/98966968/0739ab58-bbc1-4050-a6b8-1cf666be2a25)
+
 
 ## Bussines Problem
 A machine learning model that can predict customers leaving the company development is expected.
