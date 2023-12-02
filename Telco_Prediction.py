@@ -26,7 +26,7 @@ pd.set_option('display.float_format', lambda x: '%.2f' % x)
 
 warnings.simplefilter(action='ignore', category=Warning)
 
-df = pd.read_csv(r"C:\Users\Huawei\OneDrive\Masaüstü\Project\taslaklar\Telco_ML_Odev2\TelcoChurn\Telco-Customer-Churn.csv")
+df = pd.read_csv(r"Telco-Customer-Churn.csv")
 
 # TotalCharges shoud be numerical value.
 df["TotalCharges"] = pd.to_numeric(df["TotalCharges"], errors='coerce')
