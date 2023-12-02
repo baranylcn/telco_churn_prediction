@@ -1,7 +1,3 @@
-import sys
-
-sys.path.append(r"C:\Users\Huawei\AppData\Local\Programs\Python\Python310\Lib\site-packages")
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
